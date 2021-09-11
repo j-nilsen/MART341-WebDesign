@@ -1,0 +1,13 @@
+1. The world wide web is what we see and do while connected to the internet (i.e. internet browsing, email, online shopping, etc.). Essentially, the web is the experience of being online. The internet is the physical and conceptual framework which drives data throughout a connected network.
+
+2. In its simplest form, the internet works by providing a pathway for intercommunication between computers. When computers (users) request a particular function or site, packets of information are transmitted to a network of routers, servers, and other computers. These routers direct the request to the appropriate server. The server processes the request and sends the desired packet back to the requester via similar pathways – routers, servers, other computers. The packet of information is received and rendered by the requester, and the function is complete. The internet allows for the transmission of data between computers. 
+
+3. A directory is a structured system of files which allows for greater organization in a web or computer environment. The master folder (read root directory) contains content-related subfolders within itself. Those subfolders (read subdirectories) may have more files nested within themselves. Directories give files a designated and sensible home.
+
+4. VCS allows me to see all iterations – additions, subtractions, alterations – of a project as a snapshot. These viewable versions also allow me to revert to a particular stage in said project. I will benefit from the security of retracing and redoing my missteps.
+
+5. [screenshot]
+
+6. As a Geography major, I appreciate landscapes in any medium. However, I especially enjoy cartography and aerial photography.
+
+7. [rename & upload screenshot]
