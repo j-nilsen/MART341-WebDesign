@@ -1,5 +1,5 @@
 1. Below are three sites I enjoy visiting (I linked specific pages as examples)
- - [Mineral Hill]((https://www.peakbagger.com/peak.aspx?pid=65591) on [Peakbagger](https://www.peakbagger.com)
+ - [Mineral Hill](https://www.peakbagger.com/peak.aspx?pid=65591) on [Peakbagger](https://www.peakbagger.com)
  - [North Fork of the Blackfoot River](https://waterdata.usgs.gov/monitoring-location/12338300/#parameterCode=00065&period=P7D&compare=true) on [USGS](https://www.usgs.gov/)
  - [Stonewall Mountain](https://caltopo.com/map.html#ll=47.04305,-112.71604&z=14&b=f16a&a=sf%2Csma) on [CalTopo](https://caltopo.com/)
 
