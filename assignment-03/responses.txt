@@ -1,0 +1,14 @@
+1. Below are three sites I enjoy visiting (I linked specific pages as examples)
+ - [Mineral Hill]((https://www.peakbagger.com/peak.aspx?pid=65591) on [Peakbagger](https://www.peakbagger.com)
+ - [North Fork of the Blackfoot River](https://waterdata.usgs.gov/monitoring-location/12338300/#parameterCode=00065&period=P7D&compare=true) on [USGS](https://www.usgs.gov/)
+ - [Stonewall Mountain](https://caltopo.com/map.html#ll=47.04305,-112.71604&z=14&b=f16a&a=sf%2Csma) on [CalTopo](https://caltopo.com/)
+
+
+2. As Vint Cern explains: our computers use the DNS to look up domain names to find the associated IP Address. The DNS decodes our requested destination (domain name) and communicates its IP Address.
+
+3. David Karp analogizes cookies to ID cards. When we communicate with a desired server, the server sends – along with the requested webpage – a cookie. The cookie allows the server to better recognize our devices (for future use). Our web browser then stores the cookie which allows for efficient communication.
+
+4. The three essential parts of a URL are:
+ 1. Protocol
+ 2. Domain
+ 3. Paths
