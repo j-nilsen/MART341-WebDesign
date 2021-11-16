@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&family=Lora&family=Playfair+Display:wght@400;500&display=swap');
+
+.header {
+  line-height: .75;
+  margin: 0.5em;
+}
+
+#title {
+  text-indent: 0.2em;
+  font-family: 'Playfair Display', 'Lora', serif;
+  font-weight: 500;
+}
+
+#author {
+  font-variant: small-caps;
+  font-family: 'Lora', 'Crimson Text', serif;
+  text-align: justify;
+  text-indent: 0.4em;
+  letter-spacing: 0.01em;
+}
+
+#author:hover {
+  font-style: italic;
+}
+
+.main-container {
+  font-family: 'Crimson Text', 'Lora', serif;
+  font-size: 18px;
+  line-height: 1.25;
+  letter-spacing: 0.04em;
+  margin: 0.8em;
+}
+
+#first-stanza::first-letter {
+  font-size: xx-large;
+}
+
+#footer {
+  font-family: 'Lora', 'Crimson Text', serif;
+  font-size: 14px;
+  color: gray;
+  font-weight: lighter;
+}
