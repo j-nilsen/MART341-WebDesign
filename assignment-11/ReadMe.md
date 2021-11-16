@@ -2,7 +2,7 @@
 1. The difference lies in a font's availability
   - **System Fonts**: preinstalled on device; used throughout devices applications; not always on the web
   - **Web Fonts**: hosted on a server; do not have to live on a device but can be viewable on device
-  -**Web-Safe Fonts**: reliably available and readable fonts
+  - **Web-Safe Fonts**: reliably available and readable fonts
 
 2.  Fallback fonts give secondary options to the primary font in the event they do not properly load, fail, or are unavailable
 
