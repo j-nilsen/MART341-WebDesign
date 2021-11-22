@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600&display=swap');
+
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background-color: #26272b;
+    font-family: sans-serif;
+    margin-top: 0;
+    height: 4em;
+    width: 100%;
+    text-align: center;
+    font-weight: 500;
+}
+.menu-item {
+    display: inline-block;
+    margin: 1em .2em;
+    min-width: 6em;
+    text-align: center;
+    background-color: #26272b;
+    padding: 0.5em 1em;
+}
+
+.menu-item a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.menu-item:hover {
+    background-color: gray;
+  }
+
+.prompt-header{
+  text-align: center;
+  padding-top: 3.5em;
+}
+
+.secondary-container{
+  margin: auto;
+  width: 80%;
+  padding: 10px;
+  border-bottom: 2px gray solid;
+  font-family: sans-serif;
+  font-size: 18px;
+  color: black;
+}
+
+.main-container{
+  text-align: center;
+}
+
+#mainheader{
+  padding-top: 2.5em;
+  font-size: 30px;
+  text-align: center;
+}
+
+#subheader{
+  text-align: center;
+}
+
+.contact {
+  padding-top: 3.5em;
+  text-align: center;
+}
+
+#course-id {
+  border-style: solid;
+  width: 47%;
+  text-align: center;
+  margin: auto;
+}
+
+.contact a:hover {
+  background-color: #ffffcc;
+}
+
+.image {
+  padding-top: 1.5em;
+  display: block;
+  margin: auto;
+  text-align: center;
+  font-weight: 100;
+}
+
+iframe {
+    display: block;
+    border-style:none;
+    margin: auto;
+    float: right;
+    padding-left: 1.5em;
+}
+
+.twitter-follow-button {
+  float: inherit;
+  padding: .01em;
+}
