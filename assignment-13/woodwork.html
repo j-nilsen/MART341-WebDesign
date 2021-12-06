@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Justice through Equity, Diversity, and Inclusion Individual Project">
+    <meta name="author" content="John Nilsen">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Woodwork</title>
+    <link rel="stylesheet" type="text/css" href="./css/style.css"/>
+  </head>
+
+  <header class="">
+    <div class="menu-item">
+      <a href="index.html">Home</a>
+    </div>
+    <div class="menu-item dropdown">
+      <a href="about.html">About</a>
+      <div class="dropdown-content">
+        <div class="dropdown-item">
+          <a href="https://ovandomontana.net/" target="_blank">Ovando</a>
+        </div>
+        <div class="dropdown-item">
+          <a href="https://www.fs.usda.gov/recarea/hlcnf/recreation/ohv/recarea/?recid=62831&actid=93" target="_blank">HLCNF</a>
+        </div>
+        <div class="dropdown-item">
+          <a href="https://journals.openedition.org/rga/3738" target="_blank">Blackfoot Valley</a>
+        </div>
+      </div>
+    </div>
+    <div class="menu-item dropdown">
+      <a href="services.html">Services</a>
+      <div class="dropdown-content">
+        <div class="dropdown-item">
+          <a href="contact.html">Property</a>
+          <!-- Links to contact page for time being -->
+        </div>
+        <div class="dropdown-item">
+          <a href="forestry.html">Foresty</a>
+        </div>
+        <div class="dropdown-item">
+          <a href="woodwork.html">Woodwork</a>
+        </div>
+      </div>
+    </div>
+    <div class="menu-item">
+      <a href="contact.html">Contact</a>
+    </div>
+  </header>
+
+  <body>
+    <div class="row">
+      <div class="col-6">
+        <div class="canoe">
+        <img src="./images/oar_refinish.jpg" alt="Canoe Paddles, Oars Refinished" width="200 px">
+        </div>
+      </div>
+
+      <div class="col-6">
+        <form>
+          <div class="woodwork">
+            <h3>Submit your woodworking needs:</h3>
+            <form method="POST" action="index.html" id="form">
+              <input type="checkbox" name="activity" value="furniture" /> Furniture Work
+              <br />
+              <input type="checkbox" name="activity" value="refinishing" /> Refinishing Projects
+              <br />
+              <input type="checkbox" name="activity" value="carpentry" /> General Carpentry
+              <br />
+              <input type="checkbox" name="activity" value="cabinetry" /> Cabinetry
+              <br />
+              <input type="checkbox" name="activity" value="other" /> Other
+
+              <p><input type="text" id="name" placeholder="Name"></p>
+              <p><input type="text" id="email" placeholder="Enter your email"></p>
+              <p><textarea name="comments" id="comments" rows="10" cols="25s" placeholder="What are we working on?"></textarea></p>
+              <p><input type="submit"/></p>
+            </div>
+          </div>
+        </form>
+      </body>
