@@ -145,7 +145,7 @@ h1 {
   position: relative;
   overflow: hidden;
   width: 100%;
-  padding-top: 70%;
+  height:500px;
 }
 
 .responsive-iframe {
@@ -155,9 +155,17 @@ h1 {
   bottom: 0;
   right: 0;
   width: 45%;
+  height: 100%;
+}
+/*.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 28%;
+  bottom: 0;
+  right: 0;
+  width: 45%;
   height: 50%;
   /*margin? why is there blank space below map?*/
-}
 
 /*.forestry {
   padding-top: 3.5em;
