@@ -80,6 +80,13 @@ header {
     height: 100%;
 }
 
+.about-image {
+  background-image: url("../images/stonewall.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+
 .centered {
   position: absolute;
   top: 55%;
